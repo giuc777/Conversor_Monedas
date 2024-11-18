@@ -25,9 +25,11 @@
 :heavy_check_mark: Proyecto Concluido
 </h4>
 
-##:hammer:Funcionalidades
+## :hammer:Funcionalidades
 
-- `Obtencion de Datos en Linea`: Obtiene elvalor de 1 USD con respecto a otras monedas- `Monedas Acpetadas`: "EUR", "JPY", "MXN", "ARS", "BOB", "BRL", "CLP", "COP", "USD" - `Conversion`: Se pasa el nombre de la moneda y la cantidad a convertir la moneda.
+- `Obtencion de Datos en Linea`: Obtiene elvalor de 1 USD con respecto a otras monedas
+- `Monedas Acpetadas`: "EUR", "JPY", "MXN", "ARS", "BOB", "BRL", "CLP", "COP", "USD"
+- `Conversion`: Se pasa el nombre de la moneda y la cantidad a convertir la moneda.
 
 \## 📁Acceso
 
